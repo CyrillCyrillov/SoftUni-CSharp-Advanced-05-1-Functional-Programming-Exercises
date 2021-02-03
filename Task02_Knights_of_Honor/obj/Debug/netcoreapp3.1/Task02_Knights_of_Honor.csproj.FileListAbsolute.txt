@@ -1,0 +1,12 @@
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\bin\Debug\netcoreapp3.1\Task02_Knights_of_Honor.exe
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\bin\Debug\netcoreapp3.1\Task02_Knights_of_Honor.deps.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\bin\Debug\netcoreapp3.1\Task02_Knights_of_Honor.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\bin\Debug\netcoreapp3.1\Task02_Knights_of_Honor.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\bin\Debug\netcoreapp3.1\Task02_Knights_of_Honor.dll
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\bin\Debug\netcoreapp3.1\Task02_Knights_of_Honor.pdb
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\obj\Debug\netcoreapp3.1\Task02_Knights_of_Honor.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\obj\Debug\netcoreapp3.1\Task02_Knights_of_Honor.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\obj\Debug\netcoreapp3.1\Task02_Knights_of_Honor.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\obj\Debug\netcoreapp3.1\Task02_Knights_of_Honor.dll
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\obj\Debug\netcoreapp3.1\Task02_Knights_of_Honor.pdb
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task02_Knights_of_Honor\obj\Debug\netcoreapp3.1\Task02_Knights_of_Honor.genruntimeconfig.cache
