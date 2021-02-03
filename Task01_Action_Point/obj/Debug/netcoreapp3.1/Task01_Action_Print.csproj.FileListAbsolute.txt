@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\bin\Debug\netcoreapp3.1\Task01_Action_Print.exe
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\bin\Debug\netcoreapp3.1\Task01_Action_Print.deps.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\bin\Debug\netcoreapp3.1\Task01_Action_Print.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\bin\Debug\netcoreapp3.1\Task01_Action_Print.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\bin\Debug\netcoreapp3.1\Task01_Action_Print.dll
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\bin\Debug\netcoreapp3.1\Task01_Action_Print.pdb
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\obj\Debug\netcoreapp3.1\Task01_Action_Print.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\obj\Debug\netcoreapp3.1\Task01_Action_Print.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\obj\Debug\netcoreapp3.1\Task01_Action_Print.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\obj\Debug\netcoreapp3.1\Task01_Action_Print.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\obj\Debug\netcoreapp3.1\Task01_Action_Print.dll
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\obj\Debug\netcoreapp3.1\Task01_Action_Print.pdb
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\05_Functional-Programming-Exercises\obj\Debug\netcoreapp3.1\Task01_Action_Print.genruntimeconfig.cache
