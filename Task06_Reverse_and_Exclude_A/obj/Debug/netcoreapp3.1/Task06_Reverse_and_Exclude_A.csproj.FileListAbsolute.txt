@@ -1,0 +1,12 @@
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\bin\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.exe
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\bin\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.deps.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\bin\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\bin\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\bin\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.dll
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\bin\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.pdb
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\obj\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\obj\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\obj\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\obj\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.dll
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\obj\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.pdb
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task06_Reverse_and_Exclude_A\obj\Debug\netcoreapp3.1\Task06_Reverse_and_Exclude_A.genruntimeconfig.cache
