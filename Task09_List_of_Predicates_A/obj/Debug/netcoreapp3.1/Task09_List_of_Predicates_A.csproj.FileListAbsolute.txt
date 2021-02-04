@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\bin\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.exe
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\bin\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.deps.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\bin\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\bin\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\bin\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.dll
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\bin\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.pdb
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\obj\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\obj\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\obj\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\obj\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\obj\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.dll
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\obj\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.pdb
+C:\Users\Kiril\Advanced_CSharp\05_Functional-Programming-Exercises\Task09_List_of_Predicates_A\obj\Debug\netcoreapp3.1\Task09_List_of_Predicates_A.genruntimeconfig.cache
